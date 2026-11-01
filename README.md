@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/f/k1qWZTvm.png" width="700" alt="header decoration" />
+  <img src="https://cdn.corenexis.com/f/k1qWZTvm.png" width="1500" alt="header decoration" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <br>
   
-<img width="700" height="233.33" alt="ไม่มีชื่อ 77_20261101162845" src="https://github.com/user-attachments/assets/9fbd5d60-ddbd-46db-ac89-101b0ac521b2" />
+<img width="1500" height="500" alt="ไม่มีชื่อ 77_20261101162845" src="https://github.com/user-attachments/assets/38b1f164-cd57-40d4-9457-fc6261319438" />
 
 <br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/f/9Jdjp5eo.png" width="700" alt="header decoration" />
+  <img src="https://cdn.corenexis.com/f/9Jdjp5eo.png" width="1500" alt="header decoration" />
 </p>
 
 <!--
