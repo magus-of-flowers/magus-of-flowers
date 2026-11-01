@@ -9,7 +9,7 @@
 <p align="center">
 
 <a href="https://itsritsu.atabook.org/"><img align="middle" src="https://cdn.corenexis.com/f/DvjvqfaL.png" width="150" alt="Atabook" /></a>&nbsp;&nbsp;
-‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=magus-of-flowers&label=flowers&color=9984d4" alt="flowers" /> ‧₊˚ ⋅&nbsp;&nbsp;
+‧₊˚ ⋅ <img align="middle" src="https://komarev.com/ghpvc/?username=magus-of-flowers&label=petals&color=9984d4" alt="flowers" /> ‧₊˚ ⋅&nbsp;&nbsp;
 <a href="https://itsritsu.straw.page/"><img align="middle" src="https://cdn.corenexis.com/f/2pGsG77t.png" width="150" alt="Strawpage" /></a>
 
 </p>
