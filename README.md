@@ -1,6 +1,5 @@
 <div align="center">
 
-# ─── ˗ˏˋ ꒰ ᯽ ꒱ ˎˊ˗ ───
 
 
 <p align="center">
